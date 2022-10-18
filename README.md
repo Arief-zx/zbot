@@ -31,8 +31,8 @@
   </a> &nbsp;&nbsp;
 ---------
 
-## ```Whatsapp``` <a href="https://wa.me/6282127487538"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
-[![BOT WHATSAPP](https://img.shields.io/badge/Group%20All%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/HQMa4AGBFKRBi4z4R0MnH4) 
+## ```Whatsapp``` <a href="https://wa.me/62895600555028"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
+[![BOT WHATSAPP](https://img.shields.io/badge/Group%20All%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Hro9tvVc8n55FnAaUQo52J) 
 ---------
 
 #### a little about this bot
@@ -60,9 +60,9 @@
 
 ## `SETTING`
 
-- Owner Number [Here](https://github.com/WH-MODS-BOT/fix-bot-v3/blob/master/config.js#L1)
-- Owner Name [Here](https://github.com/WH-MODS-BOT/fix-bot-v3/blob/master/config.js#L1)
-- Bot Name [Here](https://github.com/WH-MODS-BOT/fix-bot-v3/blob/master/config.js#L1)
+- Owner Number [Here](https://github.com/Arief-zx/zbot/blob/master/config.js#L1)
+- Owner Name [Here](https://github.com/Arief-zx/zbot/blob/master/config.js#L1)
+- Bot Name [Here](https://github.com/Arief-zx/zbot/blob/master/config.js#L1)
 ---------
 
 ## ```Heroku Buildpack```
@@ -80,8 +80,8 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/WH-MODS-BOT/fix-bot-v3
-$ cd fix-bot-v3
+$ git clone https://github.com/Arief-zx/zbot
+$ cd zbot
 $ npm i 
 ```
 If error try using yarn instead of npm, see [here](https://github.com/BochilGaming/games-wabot/tree/multi-device#if-npm-install-failed--try--using-yarn-instead-of-npm)
@@ -123,8 +123,8 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/WH-MODS-BOT/fix-bot-v3
-cd fix-bot-v3
+git clone https://github.com/Arief-zx/zbot
+cd zbot
 npm install
 npm update
 ```
@@ -139,8 +139,8 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/WH-MODS-BOT/fix-bot-v3
-cd fix-bot-v3
+git clone https://github.com/Arief-zx/zbot
+cd zbot
 npm install
 npm update
 ```
@@ -233,14 +233,15 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 ---------
 
 ## ```Thanks to ✨```
-* [`Allah SWT`](https://github.com/WH-MODS-BOT)
-* [`My parents`](https://github.com/WH-MODS-BOT)
-* [`All Friends`](https://github.com/WH-MODS-BOT)
-* [`All Contributors`](https://github.com/WH-MODS-BOT)
-* [`All Creator Bot`](https://github.com/WH-MODS-BOT)
+* [`Allah SWT`](https://github.com/Arief-zx)
+* [`My parents`](https://github.com/Arief-zx)
+* [`All Friends`](https://github.com/Arief-zx)
+* [`All Contributors`](https://github.com/Arief-zx)
+* [`All Creator Bot`](https://github.com/Arief-zx)
 * [`Adiwajshing`](https://github.com/adiwajshing/Baileys)
 * [`Nurutomo`](https://github.com/nurutomi)
 * [`BochilGaming`](https://github.com/bochilgaming)
+* [`Arief-zx`](https://github.com/Arief-zx)
 * [`ImYanXiao`](https://github.com/ImYanXiao)
 * [`KannaChann`](https://github.com/kannachann) 
 * [`The.Sad.Boy01`](https://github.com/Kangsad01) 
