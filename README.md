@@ -251,3 +251,4 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 
 ## ```Recode By ✏️```
 [![WH-MODS-BOT](https://github.com/WH-MODS-BOT.png?size=70)](https://github.com/WH-MODS-BOT)
+[![Arief-zx](https://github.com/Arief-zx.png?size=70)](https://github.com/Arief-zx)
